@@ -1,4 +1,5 @@
 # Tailwind Traders Website
+Adding a new line in readme file
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 now with branch protection on main!
