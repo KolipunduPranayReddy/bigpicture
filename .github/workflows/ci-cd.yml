@@ -43,5 +43,5 @@ jobs:
       with:
         app-name: bigpicture
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5932C918C144D2A9075DBAEBFF0F8EF }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EADCDF8874C4B328552D899FB049254 }}
         package: TailwindTraders.Website/Source/Tailwind.Traders.Web/publish
