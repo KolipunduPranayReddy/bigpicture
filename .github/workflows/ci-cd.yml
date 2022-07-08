@@ -43,5 +43,5 @@ jobs:
       with:
         app-name: kolipundupranaybigpicture
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EADCDF8874C4B328552D899FB049254 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AZUREAPPSERVICE_PUBLISHPROFILE_0958E98E9BF44234ADBD7AAA17B27188 }}
         package: TailwindTraders.Website/Source/Tailwind.Traders.Web/publish
